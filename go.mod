@@ -61,3 +61,5 @@ require (
 	golang.org/x/tools v0.33.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
 )
+
+replace github.com/libdns/route53 v1.5.1 => github.com/theAeon/route53 v0.0.0-20250424005722-7b3b34864458

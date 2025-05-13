@@ -61,5 +61,3 @@ require (
 	golang.org/x/tools v0.33.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
 )
-
-replace github.com/libdns/route53 v1.3.3 => github.com/winterqt/libdns-route53 v0.0.0-20240114083542-47d378e5e857
